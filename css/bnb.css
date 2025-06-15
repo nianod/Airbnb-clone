@@ -1,11 +1,10 @@
  body {
-    /* background-color: yellow; */
     background-color:antiquewhite;
  }
  *,*::after,*::before{
     padding: 0;
     margin: 0;
-    box-sizing: inherit;
+    /* box-sizing: inherit; */
 }
 :root {
     --johncolor: red;
@@ -300,4 +299,4 @@ section i:hover {
 }
 .foot ol:hover {
     cursor: pointer;
-}
+} 
